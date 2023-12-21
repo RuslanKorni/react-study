@@ -1,0 +1,9 @@
+[
+    {"label": "red", "color": "#FF0000"},
+    {"label": "black", "color": "#000000"},
+    {"label": "yellow", "color": "#FFFF00"},
+    {"label": "lime", "color": "#00FF00"},
+    {"label": "green", "color": "#008000"},
+    {"label": "aqua", "color": "#00FFFF"},
+    {"label": "blue", "color": "#0000FF"}
+]
